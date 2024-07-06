@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcelCreateApp", "ExcelCreateApp\ExcelCreateApp.csproj", "{62AEEBF0-71E7-4267-8F6E-76D8BBF4FC76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileCreateWorkerService", "FileCreateWorkerService\FileCreateWorkerService.csproj", "{FA13258F-8E0A-40B5-8D09-F1DB43AD5656}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62AEEBF0-71E7-4267-8F6E-76D8BBF4FC76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62AEEBF0-71E7-4267-8F6E-76D8BBF4FC76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62AEEBF0-71E7-4267-8F6E-76D8BBF4FC76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62AEEBF0-71E7-4267-8F6E-76D8BBF4FC76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA13258F-8E0A-40B5-8D09-F1DB43AD5656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA13258F-8E0A-40B5-8D09-F1DB43AD5656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA13258F-8E0A-40B5-8D09-F1DB43AD5656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA13258F-8E0A-40B5-8D09-F1DB43AD5656}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {300A24A0-0347-4573-8CD8-8015FD9E1C13}
+	EndGlobalSection
+EndGlobal
